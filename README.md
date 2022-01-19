@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IR4QI
 - 👀 I’m interested in all technical things 
 - 🌱 I’m currently learning networking 
-- 💞️ I’m looking to collaborate on programming , cyber security , CTF's 
+- <!-- 💞️ I’m looking to collaborate on programming , cyber security , CTF's -->
 
 
 <!---
